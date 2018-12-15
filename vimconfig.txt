@@ -1,5 +1,7 @@
 set ttimeoutlen=100
 
+set clipboard=unnamedplus
+
 let mysyntaxfile = "~/.vim/mysyntax.vim"
 syntax on
 set nohlsearch
